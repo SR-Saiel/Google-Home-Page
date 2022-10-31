@@ -1,0 +1,64 @@
+/*--Moblie work starts here--*/
+
+@media only screen and (max-width: 480px){    
+    .google-header {
+      padding-top: 30px;
+      text-align: center !important;
+    }
+    .main-section {
+        margin-top: 20px;
+        padding: 10px 0 50px 0;
+    }
+    .main-section .main-logo img{
+        width: 200px;
+    }
+    .main-section .search-bar input {
+        width: 87%;
+        padding-left: 38px;
+        margin-top: 10px;
+  }
+  .main-section .search-bar img:nth-child(2) {
+    position: absolute;
+    left: 38px;
+    top: 25px;  
+}
+.main-section .search-bar img:nth-child(3) {
+    position: absolute;
+    right: 39px;
+    top: 23px; 
+    width: 13px; 
+    cursor: pointer;
+}
+.main-section .two-row a {
+    display: inline-block;
+    margin: 30px 2px;
+
+}
+.footer-first-section .first-section h3{
+    text-align: center;
+}
+.footer-secund-section .secund-section {
+    display: inline;
+    
+}
+.footer-secund-section .first-row {
+    width: 100%;
+    text-align:center;  
+}
+.footer-secund-section .secund-row {
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+   
+}
+.footer-secund-section .secund-section li {
+    padding: 5px;
+    
+}
+.footer-secund-section .secund-section li:nth-child(1) {
+   padding: 10px 0px 10px 10px;
+}
+
+}
+
+/*--Moblie work ends here--*/
